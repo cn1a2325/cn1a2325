@@ -1,4 +1,10 @@
 
-          Bem Vindos! 🎱🐤
-          Sou *Lucas Castanha Oleneki* 
-              Sou aluno do 1ºA do Colégio Estadual Cívico Militar Prof° Custódio Netto(nome em itálico)
+          Bem Vindos! 🇧🇷 🇧🇷 🇧🇷
+          
+Sou *Lucas/Lucas* 
+
+    _Sou aluno do 1ºA do Colégio Estadual Cívico Militar Prof° Custódio Netto_
+
+    Estou me desenvolvendo em programação pela Alura (https://cursos.alura.com.br/ )
+
+         você pode entrar em contato comigo pelo email: lucas.oleneki@escola.pr.gov.br      
